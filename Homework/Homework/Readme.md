@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
+Answer:Because it is recursion use if-else to finish factorial.
 
 
 # Resources
