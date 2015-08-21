@@ -5,10 +5,11 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions:ba703308
+* Get input from command line:ba703308
 
+itsariyaporn Chaowanapoonpol 570611040
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer:Program can't sort the character ,the decimal and the value that less than zero.
